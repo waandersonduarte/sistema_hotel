@@ -1,1 +1,2 @@
-#main
+#main ggg
+print()

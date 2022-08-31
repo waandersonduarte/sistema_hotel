@@ -1,2 +1,5 @@
 class Hospede:
-    pass
+    def __init__(self, nome, cpf, telefone):
+        self.nome = nome
+        self.cpf = cpf
+        self.telefone = telefone
